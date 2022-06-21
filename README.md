@@ -2,7 +2,7 @@ FSM up/down counter with transition
 ===================================
 
 Function:               Preform an interrupt upon the detection of an event (a button press)
-Circuit Schematic No.:  1
+Circuit Schematic No.:  1 : https://github.com/ELECXJEL2645/Circuit_Schematics
 Required Libraries:     
 
 Authored by:            Dr Craig Evans
