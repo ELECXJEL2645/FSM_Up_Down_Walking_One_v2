@@ -1,4 +1,4 @@
-FSM up/down counter with transition
+RGB_Sequence_Direction_Change_v2
 ===================================
 
 Function:               Preform an interrupt upon the detection of an event (a button press)
