@@ -1,12 +1,19 @@
-/*  FSM Up Down counter Example
-*   Operate an RGB LED using a finite state machine with a button input 
-*	where the input from the button changes the direction of the FSM.
+/*	RGB_Sequence_Direction_Change_v2
+*	===================================
 *
-*   Board: NUCLEO L476RG
-*   Author: Dr Craig Evans
-*	Editied: Andrew Knowles 2022
-*	MBED OS: 6.14
-*/
+*	Function:               Preform an interrupt upon the detection of an event (a button press)
+*	Circuit Schematic No.:  1 : https://github.com/ELECXJEL2645/Circuit_Schematics
+*	Required Libraries:     
+*
+*	Authored by:            Dr Craig Evans
+*	Date:                   
+*	Collaberators:          Andrew Knowles
+*				Dr Tim Amsdon
+*	Version:                1.0
+*	Revision Date:          06/2022 
+*	MBED Studio Version:    1.4.1
+*	MBED OS Version:        6.12.0
+*	Board:	                NUCLEO L476RG	*/
 
 #include "mbed.h"
  
